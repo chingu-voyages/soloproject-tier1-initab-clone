@@ -4,7 +4,7 @@
 
 ## Overview
 This project tests your CSS, HTML, and Javascript skills as you create a 
-clone of the popular [Initab Chrome Extension](). In this project you will 
+clone of the popular [Initab Chrome Extension](https://initab.com/). In this project you will 
 create a web page that matches the format of this extensions display. 
 
 Initab has a complex layout and completing this project will let you refine
