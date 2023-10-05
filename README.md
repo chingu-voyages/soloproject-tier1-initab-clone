@@ -36,7 +36,7 @@ frameworks or libraries such as Bootstrap.
 > You may **NOT** use frameworks or libraries such as Bootstrap.
 
 General instructions for all Solo Projects can also be found in the [Chingu
-Library](https://voyage.docs.chingu.io/prework/howwork).
+Handbook Solo Project Guide](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md).
 
 ### Cloning A Website
 
